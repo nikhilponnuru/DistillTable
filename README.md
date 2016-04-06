@@ -13,7 +13,7 @@ Dependencies
 
 1)After converting given pdf to xml using pdftohtml tool using above command then 
 
-2)use command : -- (change directory to where submit.py is placed)<br>
+2)use command : -- (change directory to where code.py is placed)<br>
      <strong> python code.py -f filename.xml > /path/to/destination_filename.csv</strong>
 
    i.e the output csv is redirected to destination filename using ">" operator and /path/to/ :-is the path where final csv output must be copied to
